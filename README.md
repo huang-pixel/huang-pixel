@@ -31,7 +31,7 @@ Projects in Machine Learning, Multilingual and data analysis,etc.
 - Data visualization using Matplotlib, Seaborn
 
 🙌 Let's Connect :  
-If you’re looking for someone with my background, let’s get in touch! You can reach me at [he.v.huang@gmail.com](he.v.huang@gmail.com) or through [My LinkedIn](https://www.linkedin.com/in/he-huang95).  
+If you’re looking for someone with my background, let’s get in touch! You can reach me at [he.v.huang@gmail.com] or through [My LinkedIn](https://www.linkedin.com/in/he-huang95).  
 
 
 
