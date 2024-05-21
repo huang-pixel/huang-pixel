@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 I’m HUANG He, a recent graduate with a Master’s in Computational Linguistics passionate about exploring the intersection of language and technology.
 
 📚 Academic Highlights :  
-Projects in Machine Learning, Multilingual and data analysis,etc.  
+Projects in Machine Learning, Deep Learning, Multilingual Model and so on.
 
 💻 Technical Toolkit :  
-- Python, SQL, Bash
-- Hands-on experience with NLP libraries (NLTK, spaCy)
-- Deep learning frameworks (Pytorch, HuggingFace Transformers)
-- Data visualization using Matplotlib, Seaborn
+- Python, SQL, Linux, Javascript, HTML
+- Hands-on experience with NLP 
+- Deep learning frameworks with HuggingFace
+- Data visualization
 
 🙌 Let's Connect :  
 If you’re looking for someone with my background, let’s get in touch! You can reach me at [he.v.huang@gmail.com](he.v.huang@gmail.com) or through [My LinkedIn](https://www.linkedin.com/in/he-huang95).  
