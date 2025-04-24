@@ -1,4 +1,4 @@
-### Coming soon 🐾
+### Bug hunting by day, overthinking by night. 🐾
 
 ![He's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-pixel&hide=contribs,prs&theme=rose_pine)  
 
