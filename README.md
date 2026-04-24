@@ -1,5 +1,5 @@
 ### Bug hunting by day, overthinking by night. 🐾
 
-![My Stats](https://github-readme-stats-g8z1034op-kumas-projects-22e8120c.vercel.app/api?username=huang_pixel&theme=nord&show_icons=true&hide_border=true&count_private=true)  
+![My Stats](https://github-readme-stats.vercel.app/api?username=huang_pixel&theme=nord&show_icons=true&hide_border=true&count_private=true)  
 
-![Top Langs](https://github-readme-stats-g8z1034op-kumas-projects-22e8120c.vercel.app/api/top-langs/?username=huang_pixel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huang_pixel&theme=nord&layout=compact&langs_count=4&hide_progress=true&size_weight=0&count_weight=1&hide_border=true)](https://github.com/huang_pixel/github-readme-stats)
